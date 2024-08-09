@@ -41,9 +41,9 @@ Implementace
 **Microsoft Exchange Server.** Oprávnění s právy správce, či jinými právy pro vytvoření Mail Flow.  
 **Microsoft Exchange Online.** Oprávnění s právy Global Administrator, či jinými právy pro vytvoření Mail Flow.
 
-### Implementace Exchange Online Mail Flow
+### Implementace Mail Flow
 
-Poznámka: Popis bude zaměřen pouze na službu Exchange Online, postup pro Exchange Server OnPremise je podobný.
+Popis bude zaměřen pouze na službu Exchange Online, postup pro Exchange Server je podobný.
 
 
 
